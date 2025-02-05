@@ -1,4 +1,4 @@
-# learn from chai aur code
+# learn git & github
 
 ## Install
 
